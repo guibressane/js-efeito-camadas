@@ -1,0 +1,176 @@
+
+#main-home {top:0;right:0;bottom:0;left:0;position:absolute;overflow:hidden;}
+
+#miolo-vazado {
+
+	position:absolute; 
+	width:1432px; 
+	height:976px; 
+	margin: -500px 0 0 -660px;
+	background: url("imagens/miolo_vazado_home_sombras.png") no-repeat;
+	}
+
+#miolo-superior {
+	position:absolute; 
+	width:2400px; 
+	height:285px; 
+   margin-left: -1250px;
+    margin-top: -784px;
+	background: url("imagens/miolo_superior.jpg") no-repeat;
+	}
+
+#miolo-esquerda {
+	position:absolute; 
+	width:590px; 
+	height:977px; 
+   margin-left: -1250px;
+    margin-top: -500px;
+	background: url("imagens/miolo_esquerda.jpg") no-repeat;
+	}
+	
+#miolo-direita {
+	position:absolute; 
+	width:378px; 
+	height:977px; 
+    margin-left: 772px;
+    margin-top: -500px;
+	background: url("imagens/miolo_direita.jpg") no-repeat;
+	}
+
+#miolo-inferior {
+	position:absolute; 
+	width:2400px; 
+	height:338px; 
+   margin-left: -1250px;
+	margin-top: 476px;
+	background: url("imagens/miolo_inferior.jpg") no-repeat;
+	}
+
+/*   novo estilo -----*/
+
+#bg {
+	position:absolute; 
+	width:1920px; 
+	height:1080px; 
+   margin-left: -50px;
+	margin-top: -170px;
+	background: url("imagens/bg.png") no-repeat;
+
+}
+
+#bola-1 {
+	position:absolute; 
+	width:50px; 
+	height:50px; 
+   margin-left: 86px;
+	margin-top:  -17px;
+	background: url("imagens/bola-50px.png") no-repeat;
+
+}
+
+#bola-2 {
+	position:absolute; 
+	width:75px; 
+	height:75px; 
+   margin-left: 95px;
+	margin-top:  55px;
+	background: url("imagens/bola-75px.png") no-repeat;
+
+}
+
+#bola-3 {
+	position:absolute; 
+	width:100px; 
+	height:100px; 
+   margin-left: 51px;
+	margin-top: 141px;
+	background: url("imagens/bola-100px.png") no-repeat;
+}
+
+#bola-4 {
+	position:absolute; 
+	width:125px; 
+	height:125px; 
+   margin-left: -90px;
+	margin-top: 205px;
+	background: url("imagens/bola-125px.png") no-repeat;
+
+}
+
+#bola-5 {
+	position:absolute; 
+	width:150px; 
+	height:150px; 
+   margin-left: -250px;
+	margin-top: 100px;
+	background: url("imagens/bola-150px.png") no-repeat;
+}
+
+#bola-6 {
+	position:absolute; 
+	width:200px; 
+	height:200px; 
+   margin-left: -314px;
+	margin-top: -107px;
+	background: url("imagens/bola-200px.png") no-repeat;
+}
+
+#bola-7 {
+	position:absolute; 
+	width:250px; 
+	height:250px; 
+   margin-left: -158px;
+	margin-top: -311px;
+	background: url("imagens/bola-250px.png") no-repeat;
+}
+
+
+#quadrado-esquerdo {
+	position:absolute; 
+	width:350px; 
+	height:305px; 
+   margin-left: -308px;
+	margin-top: -183px;
+	background: url("imagens/quadrado-450px.png") no-repeat;
+}
+
+#quadrado-direito{
+	position:absolute; 
+	width:250px; 
+	height:250px; 
+   margin-left: -20px;
+	margin-top: 47px;
+	background: url("imagens/quadrado-350px.png") no-repeat;
+}
+
+#quadrado-preto{
+	position:absolute; 
+	width:350px; 
+	height:305px; 
+   margin-left: -215px;
+	margin-top: -87px;
+	background: #000 no-repeat;
+}
+
+#logo{
+	position:fixed; 
+	width:332px; 
+	height:69px; 
+   right: 10%;
+	bottom: 10%;
+	background:  url("imagens/logo-gui-bressane.png") no-repeat;
+}
+
+.link-home {
+	position: absolute;
+	width:332px; 
+	height:69px;	
+}
+
+.link-home:hover {
+	background: #cdd4e5;
+	opacity:0.15;
+	-moz-opacity: 0.15;
+	filter: alpha(opacity=15);
+
+}
